@@ -315,6 +315,9 @@ li {
 .adag {
     margin: 10px 180px 0 260px;
 }
+.last-word a {
+    color:#AEB6BF;
+}
 hr {
     position: absolute;
     height: 1px;
