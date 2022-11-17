@@ -7,6 +7,8 @@
         <meta name="description" content="HeriaproHeriaproHeriaproHeriaproHeriaproHeriaproHeriaproHeriapro,calisthenics,exercise,THENX,anywhereanyttime">
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="exercise" content="online-shop, exercise-programm" />
+        <link href="https://example.com/%E8%8B%97%E6%9D%A1" rel="preconnect" >
+        <link rel="icon" type="image/x-icon" href="Calendar.jpg">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css" integrity="sha384-z4tVnCr80ZcL0iufVdGQSUzNvJsKjEtqYZjiQrrYKlpGow+btDHDfQWkFjoaz/Zr" crossorigin="anonymous">
     </head> 
     <body>
@@ -42,8 +44,8 @@
             </div>   
         </div>
         <div class="mid-b"> 
-            <h3>Wanna build muscle, lose fat, and develop technique?</h3>
-            <p id="p6">Well download the Heria Pro App now to have access to all workouts and programs in the style used by the renowned calisthenics and <br>fitness athlete, Chris Heria himself!</p>
+            <h3>Want to build muscle, lose fat, and develop technique?</h3>
+            <p id="p6">Well download the Heria Pro App now to have access to all workouts and programs in the style used by the renowned calisthenics and <br>fitness athlete, Chris Heria himself!.</p>
           <div class="Yr"> 
             <div class="Get-app"> 
             <p id="p7">Get the app</p>
@@ -84,7 +86,7 @@
             <div class="bot-words">
             <p id="p11">  Get the app</p>
             <h6>Workout Generator</h6>
-            <p id="p12">Create your own customized workout plan based on your preferences with Chris' special algorithm.</p>
+            <p id="p12">Create your own customized workout plan based on your preferences with Chris' special algorithm. Otherwise it's just the best exercise program for suitable for you.</p>
             </div> 
             <div class="create">
             </div>
@@ -115,6 +117,6 @@
                     </ul>
                   </div>
             </div>
-            <p id="suul">Copyright © Chris Heria LLC 2022</p>
+            <p id="suul">Copyright © Chris Heria LLC 2022<br> Sorry guys that page is just to imitate that Chris's orginal Heriapro web page. It's just test of SEO and develop some element and tags. It's for my Internet Tecnology's responsibility of Lab. Don't take copy of mine. Because it isn't so good xxa.</p>
         </footer>
 </html> 
